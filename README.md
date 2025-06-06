@@ -2,7 +2,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================  
 Fullstack Software Engineer and Graphics Designer
 ------------------------------------------------  
-I have 4+ years of corporate experience in backend using multiple technologies like Java, Spring, React, Oracle and more. I love to way things look and recently started learning Graphic Design - stay tuned for my latest design projects 😉  * 🌍  I'm based in Pune * 🖥️  See my portfolio at [MyPortfolio](http://mihimanshu.com) * ✉️  You can contact me at [mi.himanshu98@gmail.com](mailto:mi.himanshu98@gmail.com) * 🚀  I'm currently working on [Readit](http://readit.com) * 🧠  I'm learning Deep Learning with PyTorch * 🤝  I'm open to collaborating on Projects related to Fullstack, Backend, Graphics Design and AI/ML * ⚡  I have a passion for music and am kind of a decent Flute player 😁
+I have 4+ years of corporate experience in backend using multiple technologies like Java, Spring, Oracle and more, working along frontend with React as some side project for the company. I love the way things look and recently started learning Graphics Design - stay tuned for my latest design projects 😉  
+
+* 🌍  I'm based in Pune 
+* 🖥️  See my portfolio at [MyPortfolio](http://mihimanshu.com) 
+* ✉️  You can contact me at [mi.himanshu98@gmail.com](mailto:mi.himanshu98@gmail.com) 
+* 🚀  I'm currently working on [Readit](http://readit.com) 
+* 🧠  I'm learning Deep Learning with PyTorch 
+* 🤝  I'm open to collaborating on Projects related to Fullstack, Backend, Graphics Design and AI/ML 
+* ⚡  I have a passion for music and am kind of a decent Flute player 😁
 
 ### Skills  
 
